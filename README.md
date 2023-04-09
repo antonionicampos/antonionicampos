@@ -33,7 +33,7 @@ I like programming so, for many years, I've been learning how to programming on 
 - 🌱 I’m currently learning about Kernels  
   
 
-- ⚡ Fun fact: I have bachelor degree in Mechanical Engineering  
+- ⚡ Fun fact: I play the guitar in the free time    
   
 
 <br/>  
