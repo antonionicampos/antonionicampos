@@ -27,7 +27,7 @@ I like programming so, for many years, I've been learning how to programming on 
 - 🔭 I’m currently working at [Petrobras](https://petrobras.com.br/en/)  
   
 
-- 📚 I studied at UFPE (Universidade Federal de Pernambuco)  
+- 📚 I have bachelor degree in Mechanical Engineering at UFPE (Universidade Federal de Pernambuco). I have a postgraduate degree at PUC-RIO in the field of Data Science and I am doing my master's degree in Computational Intelligence on the Electrical Engineering Department at UFRJ  
   
 
 - 🌱 I’m currently learning about Kernels  
